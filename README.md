@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 I'm Deni</h1>
 
-<!--
-**DeniLeon/DeniLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+MSc student in Computer Engineering at <b>CIC-IPN</b> (Mexico City).<br>
+Eternal learner building projects at the intersection of <b>algorithms</b>, <b>data</b>, and <b>scientific outreach</b>.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+✨ Currently building my GitHub portfolio (one commit at a time).<br>
+📚 Learning: Git/GitHub workflows, Python foundations, and Manim for scientific animations.<br>
+🎯 2026 focus: thesis groundwork + consistent project shipping + clearer technical writing.<br>
+🧠 Interests: algorithms, graph-based thinking, neural networks (intro level), and signal processing basics.<br>
+👩‍🏫 Side quest: I teach science to kids in my free time.
+</p>
+
+<h2 align="left">What you'll find here</h2>
+
+<ul>
+  <li>📌 Learning projects (Python, SQL, R) with clean notes and small experiments</li>
+  <li>🎬 Manim animations to explain algorithms / data structures (work in progress)</li>
+  <li>🧪 Early research notes and reproducible code (as my thesis takes shape)</li>
+</ul>
+
+<h2 align="left">Tech (growing toolbox)</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+<h2 align="left">Let’s connect</h2>
+
+<p align="left">
+If you're building education-friendly tools, research prototypes, or clean engineering projects — I’m always happy to learn and collaborate.
+</p>
