@@ -38,5 +38,6 @@ Eternal learner building projects at the intersection of <b>algorithms</b>, <b>d
 <h2 align="left">Let’s connect</h2>
 
 <p align="left">
-If you're building education-friendly tools, research prototypes, or clean engineering projects — I’m always happy to learn and collaborate.
+Aspiring researcher with a strong interest in data science, algorithms, and AI.<br>
+I enjoy learning through challenging projects and collaborating with teams that value curiosity  and continuous growth.
 </p>
