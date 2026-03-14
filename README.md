@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Deni</h1>
+<h1 align="left">Hey!  👋 I'm Deni</h1>
 
 <p align="left">
 MSc student in Computer Engineering at <b>CIC-IPN</b> (Mexico City).<br>
@@ -23,7 +23,7 @@ Eternal learner building projects at the intersection of <b>algorithms</b>, <b>d
   <li>🧪 Early research notes and reproducible code (as my thesis takes shape)</li>
 </ul>
 
-<h2 align="left">Tech (growing toolbox)</h2>
+<h2 align="left">Tech (my growing toolbox)</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
