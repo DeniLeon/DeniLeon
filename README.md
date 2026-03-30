@@ -1,18 +1,18 @@
-<h1 align="left">Hey!  👋 I'm Deni</h1>
+<h1 align="left">Hey! I'm Deni</h1>
 
 <p align="left">
 MSc student in Computer Engineering at <b>CIC-IPN</b> (Mexico City).<br>
-Eternal learner building projects at the intersection of <b>algorithms</b>, <b>data</b>, and <b>scientific outreach</b>.
+Just building projects at the intersection of <b>algorithms</b>, <b>data</b>, and <b>scientific outreach</b>.
 </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Currently building my GitHub portfolio (one commit at a time).<br>
+✨ Currently building my GitHub portfolio (little by litte).<br>
 📚 Learning: Git/GitHub workflows, Python foundations, and Manim for scientific animations.<br>
 🎯 2026 focus: thesis groundwork + consistent project shipping + clearer technical writing.<br>
 🧠 Interests: algorithms, graph-based thinking, neural networks (intro level), and signal processing basics.<br>
-👩‍🏫 Side quest: I teach science to kids in my free time.
+👩‍🏫 Fun fact: I teach science to kids in my free time.
 </p>
 
 <h2 align="left">What you'll find here</h2>
@@ -20,7 +20,7 @@ Eternal learner building projects at the intersection of <b>algorithms</b>, <b>d
 <ul>
   <li>📌 Learning projects (Python, SQL, R) with clean notes and small experiments</li>
   <li>🎬 Manim animations to explain algorithms / data structures (work in progress)</li>
-  <li>🧪 Early research notes and reproducible code (as my thesis takes shape)</li>
+  <li>🧪 Early research notes and reproducible code (as my thesis takes shape :) )</li>
 </ul>
 
 <h2 align="left">Tech (my growing toolbox)</h2>
@@ -31,8 +31,6 @@ Eternal learner building projects at the intersection of <b>algorithms</b>, <b>d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="r logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
