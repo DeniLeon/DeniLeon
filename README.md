@@ -8,7 +8,7 @@ Just building projects at the intersection of <b>algorithms</b>, <b>data</b>, an
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Currently building my GitHub portfolio (little by litte).<br>
+✨ Currently building my GitHub portfolio (little by little).<br>
 ✨Learning: Git/GitHub workflows, Python foundations, and Manim for scientific animations.<br>
 ✨ 2026 focus: thesis groundwork + consistent project shipping + clearer technical writing.<br>
 ✨ Interests: algorithms, graph-based thinking, neural networks (intro level), and signal processing basics.<br>
